@@ -1,0 +1,10 @@
+# Build output
+*.tmp
+# KiCad backups
+*-bak
+*.kicad_pcb-bak
+fp-info-cache
+# Firmware build
+build/
+*.uf2
+*.elf
